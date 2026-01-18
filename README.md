@@ -56,9 +56,9 @@ Framework para la aplicacion SPOTIFY <br>
 ---
 
 ### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Individual)
-Framework para la aplicacion PLANKA
+Framework para la aplicacion PLANKA <br>
 📌 Tecnologías: Postman, Pytest , Python <br>
-🔗 Repositorio: https://github.com/danielabravo2308/proyecto-planka
+🔗 Repositorio: https://github.com/danielabravo2308/proyecto-planka <br>
 ✔ Pruebas GET, POST, DELETE  
 ✔ Validaciones de status code  
 ✔ Variables de entorno  
