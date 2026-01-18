@@ -23,7 +23,7 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 
 ### 🔹 Casos de Prueba Manuales (Trabajo Grupal)
 📌 Herramientas: Drive  
-  Sistema Web : Orange HRM 
+  Sistema Web : Orange HRM   
 🔗 Documentación: https://drive.google.com/drive/folders/1m5GH_2ZHvoLJ8aZj_sk9LD13rpCK5rrT?usp=sharing  
 ✔ Diseño de casos de prueba  
 ✔ Matriz de trazabilidad  
@@ -33,9 +33,9 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 
 
 ### 🔹 Automatización : Pruebas sobre Sistemas Web (Trabajo Grupal)
-👩‍💻 Framework para la aplicacion TRELLO 
-📌 Tecnologías: Playwright, Python 
-🔗 Repositorio: https://github.com/BiancaFernandezQ/michisoft-trello 
+👩‍💻 Framework para la aplicacion TRELLO     
+📌 Tecnologías: Playwright, Python   
+🔗 Repositorio: https://github.com/BiancaFernandezQ/michisoft-trello   
 ✔ Automatización de login  
 ✔ Validación de flujos principales  
 ✔ Uso de Page Object Model  
@@ -43,27 +43,27 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 ---
 
 ### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Grupal)
-👩‍💻 Framework para la aplicacion SPOTIFY 
-📌 Tecnologías: Postman, Pytest , Python  
-🔗 Repositorio: https://github.com/noeliacv/CatSoft 
+👩‍💻 Framework para la aplicacion SPOTIFY   
+📌 Tecnologías: Postman, Pytest , Python       
+🔗 Repositorio: https://github.com/noeliacv/CatSoft   
 ✔ Pruebas GET, POST, PUT, DELETE  
 ✔ Validaciones de status code  
 ✔ Variables de entorno  
-✔ Validaciones Payloads input , output 
-✔ Validaciones Schemas 
+✔ Validaciones Payloads input , output   
+✔ Validaciones Schemas   
 ✔ Variables de tiempo de respuesta
 
 ---
 
 ### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Individual)
-👩‍💻 Framework para la aplicacion PLANKA <br>
-📌 Tecnologías: Postman, Pytest , Python <br>
-🔗 Repositorio: https://github.com/danielabravo2308/proyecto-planka
+👩‍💻 Framework para la aplicacion PLANKA  
+📌 Tecnologías: Postman, Pytest , Python  
+🔗 Repositorio: https://github.com/danielabravo2308/proyecto-planka  
 ✔ Pruebas GET, POST, DELETE  
 ✔ Validaciones de status code  
 ✔ Variables de entorno  
-✔ Validaciones Payloads input , output
-✔ Validaciones Schemas
+✔ Validaciones Payloads input , output  
+✔ Validaciones Schemas  
 ✔ Variables de tiempo de respuesta
 
 ---
