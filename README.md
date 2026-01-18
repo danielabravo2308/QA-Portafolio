@@ -33,7 +33,7 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 
 
 ### 🔹 Automatización : Pruebas sobre Sistemas Web (Trabajo Grupal)
-Framework para la aplicacion TRELLO
+👩‍💻 Framework para la aplicacion TRELLO <br>
 📌 Tecnologías: Playwright, Python <br>
 🔗 Repositorio: https://github.com/BiancaFernandezQ/michisoft-trello 
 ✔ Automatización de login  
@@ -43,7 +43,7 @@ Framework para la aplicacion TRELLO
 ---
 
 ### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Grupal)
-Framework para la aplicacion SPOTIFY <br>
+👩‍💻 Framework para la aplicacion SPOTIFY <br>
 📌 Tecnologías: Postman, Pytest , Python  
 🔗 Repositorio: https://github.com/noeliacv/CatSoft 
 ✔ Pruebas GET, POST, PUT, DELETE  
@@ -56,7 +56,7 @@ Framework para la aplicacion SPOTIFY <br>
 ---
 
 ### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Individual)
-Framework para la aplicacion PLANKA <br>
+👩‍💻 Framework para la aplicacion PLANKA <br>
 📌 Tecnologías: Postman, Pytest , Python <br>
 🔗 Repositorio: https://github.com/danielabravo2308/proyecto-planka <br>
 ✔ Pruebas GET, POST, DELETE  
