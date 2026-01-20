@@ -62,7 +62,7 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 ✔ Pruebas GET, POST, DELETE  
 ✔ Validaciones de status code  
 ✔ Variables de entorno  
-✔ Validaciones Payloads 
+✔ Validaciones Payloads  
 ✔ Validaciones Schemas  
 ✔ Variables de tiempo de respuesta
 
