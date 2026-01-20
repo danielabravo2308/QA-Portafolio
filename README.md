@@ -14,7 +14,7 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 - Jira
 - Pruebas Manuales
 - Pruebas de API
-- CI/CD (básico)
+- CI (basico)
 
 ---
 
