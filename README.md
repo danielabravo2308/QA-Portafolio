@@ -70,5 +70,5 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 
 
 ## 📫 Contacto
-- LinkedIn: [Enlace Perfil](www.linkedin.com/in/danielabravo27)
+- LinkedIn: [Enlace Perfil](https://www.linkedin.com/in/danielabravo27/)
 - Email: danielabravorueda@gmail.com
