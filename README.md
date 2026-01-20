@@ -21,10 +21,10 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 ## 📂 Proyectos Destacados
 
 
-### 🔹 Casos de Prueba Manuales (Trabajo Grupal)
+### 🔹 Casos de Prueba Manuales
 📌 Herramientas: Drive  
   Sistema Web : Orange HRM   
-🔗 Documentación: https://drive.google.com/drive/folders/1m5GH_2ZHvoLJ8aZj_sk9LD13rpCK5rrT?usp=sharing  
+🔗 [Ver Documentacion Drive](https://drive.google.com/drive/folders/1m5GH_2ZHvoLJ8aZj_sk9LD13rpCK5rrT?usp=sharing)  
 ✔ Diseño de casos de prueba  
 ✔ Matriz de trazabilidad  
 ✔ Reporte de defectos  
@@ -32,20 +32,20 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 ---
 
 
-### 🔹 Automatización : Pruebas sobre Sistemas Web (Trabajo Grupal)
+### 🔹 Automatización : Pruebas sobre Sistemas Web 
 👩‍💻 Framework para la aplicacion TRELLO     
 📌 Tecnologías: Playwright, Python   
-🔗 Repositorio: https://github.com/BiancaFernandezQ/michisoft-trello   
+🔗 [Repositorio Github](https://github.com/BiancaFernandezQ/michisoft-trello)   
 ✔ Automatización de login  
 ✔ Validación de flujos principales  
 ✔ Uso de Page Object Model  
 
 ---
 
-### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Grupal)
+### 🔹 Automatizacion: Pruebas sobre servicios REST
 👩‍💻 Framework para la aplicacion SPOTIFY   
 📌 Tecnologías: Postman, Pytest , Python       
-🔗 Repositorio: https://github.com/noeliacv/CatSoft   
+🔗 [Repositorio Github](https://github.com/noeliacv/CatSoft)   
 ✔ Pruebas GET, POST, PUT, DELETE  
 ✔ Validaciones de status code  
 ✔ Variables de entorno  
@@ -55,14 +55,14 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 
 ---
 
-### 🔹 Automatizacion: Pruebas sobre servicios REST (Trabajo Individual)
+### 🔹 Automatizacion: Pruebas sobre servicios REST
 👩‍💻 Framework para la aplicacion PLANKA  
 📌 Tecnologías: Postman, Pytest , Python  
-🔗 Repositorio: https://github.com/danielabravo2308/proyecto-planka  
+🔗 [Repositorio GitHub](https://github.com/danielabravo2308/proyecto-planka)  
 ✔ Pruebas GET, POST, DELETE  
 ✔ Validaciones de status code  
 ✔ Variables de entorno  
-✔ Validaciones Payloads input , output  
+✔ Validaciones Payloads 
 ✔ Validaciones Schemas  
 ✔ Variables de tiempo de respuesta
 
@@ -70,5 +70,5 @@ Tengo experiencia en **pruebas manuales y automatizadas** para aplicaciones web 
 
 
 ## 📫 Contacto
-- LinkedIn: www.linkedin.com/in/danielabravo27
+- LinkedIn: [Enlace Perfil](www.linkedin.com/in/danielabravo27)
 - Email: danielabravorueda@gmail.com
